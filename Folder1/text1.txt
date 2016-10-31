@@ -1,0 +1,3 @@
+text
+Skynet online, thanks Actualize >> text1.txt
+echo Skynet online thanks Actualize
